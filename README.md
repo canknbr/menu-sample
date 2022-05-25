@@ -4,6 +4,6 @@
 
 ---
 
-[Menu-link](https://tours-sample-gym0tj6ee-canknbr.vercel.app/)
+[Menu-link](https://menu-sample-j8ihqnrzq-canknbr.vercel.app/)
 
 ![alt text](img/menu.png)
